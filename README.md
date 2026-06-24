@@ -1,18 +1,32 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020024,50:090979,100:00D4FF&text=DHINESH%20A&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=DHINESH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 # 👨‍💻 Dhinesh A
 
-### AI Engineer • Data Analytics Enthusiast • Computer Science Engineering
+### AI Engineer • Data Analytics Enthusiast • Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+Engineer;Machine+Learning+Practitioner;Computer+Vision+Developer;Data+Analytics+Enthusiast;Building+Scalable+AI+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Data+Analytics;Building+Intelligent+Systems"/>
+
+<p align="center">
+
+<a href="mailto:pandakaradii116@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://purple-byte-portfolio.lovable.app">
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=38BDF8"/>
+
+</p>
 
 </div>
 
 ---
 
-## 🚀 Professional Summary
+## 🚀 About Me
 
 ```yaml
 Name: Dhinesh A
@@ -20,25 +34,36 @@ Name: Dhinesh A
 Education:
   - Computer Science Engineering
 
-Specialization:
+Role:
+  - AI Engineer
+  - Data Analytics Enthusiast
+
+Working On:
   - Artificial Intelligence
   - Machine Learning
-  - Data Analytics
   - Computer Vision
+  - Intelligent Data Solutions
 
-Currently:
-  - Developing AI-powered applications
-  - Building intelligent data-driven systems
-  - Exploring Deep Learning architectures
-  - Collaborating with @gopi16-11 on innovative AI solutions
+Collaboration:
+  - Working alongside @gopi16-11
 
-Goal:
-  - Transform complex data into intelligent decisions
+Mission:
+  - Building impactful AI-powered applications
 ```
 
 ---
 
-## 🧠 Core Expertise
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,html,css,javascript,git,github,vscode" />
+
+</p>
+
+---
+
+## 🧠 AI Interests
 
 - 🤖 Artificial Intelligence
 - 📊 Data Analytics
@@ -50,43 +75,26 @@ Goal:
 
 ---
 
-## ⚙️ Technology Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,html,css,javascript,git,github,vscode" />
-</p>
-
----
-
-## 🔬 Areas of Interest
-
-```python
-class Dhinesh:
-
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Computer Vision",
-        "Data Analytics",
-        "Deep Learning",
-        "Intelligent Systems"
-    ]
-
-    mission = "Building AI solutions that solve real-world problems"
-```
-
----
-
 ## 🚀 Featured Projects
 
 ### 📚 EliteExam Hub
-AI-enhanced competitive exam preparation platform with quizzes, assessments, and learning resources.
+Competitive exam preparation platform featuring study materials, quizzes, and mock tests.
 
 ### 🎯 StriveForge
-Productivity intelligence platform for habit analytics, focus tracking, and performance monitoring.
+Productivity and habit-tracking platform focused on consistency, focus, and growth.
 
-### 🤖 AI & Computer Vision Systems
-Developing intelligent applications using Machine Learning and Computer Vision technologies.
+### 🤖 AI Solutions
+Developing intelligent applications powered by AI, Machine Learning, and Computer Vision.
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dhi11-16&theme=algolia&no-frame=true&column=4"/>
+
+</p>
 
 ---
 
@@ -101,7 +109,9 @@ Developing intelligent applications using Machine Learning and Computer Vision t
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhi11-16&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -109,12 +119,24 @@ Developing intelligent applications using Machine Learning and Computer Vision t
 ## 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌐 Connect
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Dhi11-16/Dhi11-16/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -123,7 +145,7 @@ Developing intelligent applications using Machine Learning and Computer Vision t
 </a>
 
 <a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -132,8 +154,12 @@ Developing intelligent applications using Machine Learning and Computer Vision t
 
 <div align="center">
 
-### 💡 AI Vision
+## 💡 AI Vision
 
-"Leveraging Artificial Intelligence, Machine Learning, and Data Analytics to engineer impactful solutions for tomorrow."
+### "Transforming data into intelligence and intelligence into impactful solutions."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
+
+### ⭐ Thanks for visiting my profile!
 
 </div>
