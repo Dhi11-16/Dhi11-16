@@ -2,21 +2,23 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,50:302B63,100:00F5FF&text=DHINESH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# ⚡ DHINESH A
+# ⚡ Dhinesh A
 
 ### AI Engineer • Data Analytics Enthusiast • Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Data+Analytics;Building+Intelligent+Systems;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Data+Analytics;Building+Intelligent+Solutions"/>
 
 <br>
 
 <a href="mailto:pandakaradii116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
+
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=00F5FF"/>
 
@@ -24,19 +26,19 @@
 
 ---
 
-# 🧠 AI PROFILE
+## 🧠 About Me
 
 ```yaml
 Name: Dhinesh A
+
+Education:
+  - Computer Science Engineering
 
 Role:
   - AI Engineer
   - Data Analytics Enthusiast
 
-Education:
-  - Computer Science Engineering
-
-Current Focus:
+Specialization:
   - Artificial Intelligence
   - Machine Learning
   - Computer Vision
@@ -45,88 +47,34 @@ Current Focus:
 Collaboration:
   - Working with @gopi16-11
 
-Mission:
-  - Build AI solutions that create real-world impact
+Goal:
+  - Building intelligent systems for real-world impact
 ```
 
 ---
 
-# 🚀 ABOUT ME
-
-```python
-class Dhinesh:
-
-    def __init__(self):
-        self.role = "AI Engineer"
-        self.specialization = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Data Analytics"
-        ]
-
-        self.currently_working = (
-            "AI & Intelligent Data Solutions"
-        )
-
-        self.collaborating_with = "@gopi16-11"
-
-        self.goal = (
-            "Transforming Data Into Intelligence"
-        )
-```
-
----
-
-# ⚡ AI TECH STACK
+## ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,html,css,javascript,git,github,vscode"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00F5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-00FFFF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-7B2FF7?style=for-the-badge"/>
-
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,html,css,javascript,git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🚀 Featured Projects
 
 ### 📚 EliteExam Hub
-
-AI-enhanced competitive exam preparation platform with quizzes, assessments, and study resources.
+Competitive exam preparation platform with quizzes, study materials, and mock tests.
 
 ### 🎯 StriveForge
-
-Productivity intelligence platform focused on discipline, consistency, and performance analytics.
+Productivity and habit-tracking platform focused on discipline and consistency.
 
 ### 🤖 AI Solutions
-
-Building intelligent systems using Machine Learning, Data Analytics, and Computer Vision.
-
----
-
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhi11-16&theme=algolia&no-frame=true&column=4"/>
-
-</p>
+Developing intelligent systems using Machine Learning, Computer Vision, and Data Analytics.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -137,33 +85,29 @@ Building intelligent systems using Machine Learning, Data Analytics, and Compute
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhi11-16&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&bg_color=0d1117&hide_border=true&line=00F5FF&point=00F5FF&area=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🌐 CONNECT
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:pandakaradii116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
@@ -172,12 +116,12 @@ Building intelligent systems using Machine Learning, Data Analytics, and Compute
 
 <div align="center">
 
-# 💡 AI VISION
+## 💡 Vision
 
-### "Building intelligent systems that transform data into meaningful decisions."
+### "Transforming data into intelligence and intelligence into impactful solutions."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F0C29,50:302B63,100:00F5FF"/>
 
-### ⚡ Powered by AI • Driven by Innovation
+### 🚀 AI • Data • Innovation
 
 </div>
