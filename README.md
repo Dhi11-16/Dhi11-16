@@ -1,69 +1,54 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00C6FF&text=DHINESH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+# ⚡ DHINESH A
 
-# ⚡ Dhinesh A
+### AI Engineer • Data Analytics Enthusiast • CSE Student
 
-### Computer Science Engineering Student
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Data+Analytics+Enthusiast;Computer+Vision+Explorer;Building+Intelligent+Solutions;Collaborating+on+Innovative+Projects"/>
-
-<br>
-
-<a href="mailto:pandakaradii116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=00C6FF"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Solutions;Computer+Vision+Explorer;Data+Analytics+Enthusiast;Creating+Technology+That+Matters"/>
 
 </div>
 
 ---
 
-# 🌌 Profile
+## 🖥️ SYSTEM.INFO
 
 ```yaml
 Name: Dhinesh A
+Username: Dhi11-16
 
-Education: Computer Science Engineering
+Education:
+  - Computer Science Engineering
 
 Role:
-  - Computer Science Engineer
+  - AI Engineer
   - Data Analytics Enthusiast
 
-Focus:
-  - Artificial Intelligence
-  - Data Analytics
-  - Computer Vision
-  - Software Development
+Collaboration:
+  - Working with @gopi16-11
 
-Currently:
-  - Building real-world AI applications
-  - Exploring Machine Learning & Intelligent Systems
-  - Collaborating with @gopi16-11 on innovative AI and technology projects
+Interests:
+  - Artificial Intelligence
+  - Computer Vision
+  - Machine Learning
+  - Data Analytics
+  - Software Development
 ```
 
 ---
 
-# 🚀 About Me
+## 🚀 CURRENT MISSION
 
-- 🎓 Computer Science Engineering Student
-- 🤖 Passionate about Artificial Intelligence
-- 📊 Enthusiastic about Data Analytics
-- 👁️ Exploring Computer Vision Technologies
-- 💡 Solving real-world problems through technology
-- 🚀 Building innovative software and AI solutions
-- 🤝 Working alongside **@gopi16-11** on intelligent systems and impactful projects
+```txt
+✓ Building AI Applications
+✓ Exploring Computer Vision
+✓ Developing Data-Driven Solutions
+✓ Learning Advanced ML Concepts
+✓ Creating Real-World Projects
+```
 
 ---
 
-# 🛠️ Tech Stack
+## ⚙️ TECH ARSENAL
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode" />
@@ -71,80 +56,60 @@ Currently:
 
 ---
 
-# 🔥 Featured Projects
+## 🧩 FEATURED PROJECTS
 
 ### 📚 EliteExam Hub
 
-A competitive exam preparation platform featuring study materials, quizzes, and mock tests designed to improve student performance.
+> Competitive exam preparation platform with structured study notes, quizzes, and mock tests.
+
+---
 
 ### 🎯 StriveForge
 
-A productivity and habit-tracking application focused on consistency, discipline, and personal growth.
-
-### 🤖 AI & Data Projects
-
-Developing intelligent solutions using Artificial Intelligence, Data Analytics, and Computer Vision.
+> Productivity ecosystem for habit tracking, focus sessions, streaks, and personal growth.
 
 ---
 
-# 📊 GitHub Analytics
+### 🤖 AI & Computer Vision
+
+> Building intelligent systems capable of learning, analyzing, and solving real-world problems.
+
+---
+
+## 📈 DEVELOPMENT METRICS
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhi11-16&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhi11-16&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dhi11-16&show_icons=true&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhi11-16&theme=github-dark-blue&hide_border=true"/>
-</p>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhi11-16&layout=compact&theme=transparent&hide_border=true"/>
 
-# 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dhi11-16&theme=algolia&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🌍 CONNECT
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&bg_color=0d1117&hide_border=true&line=00E5FF&point=00E5FF&area=true"/>
-</p>
+📧 Email: **pandakaradii116@gmail.com**
+
+🌐 Portfolio: **https://purple-byte-portfolio.lovable.app**
+
+🐙 GitHub: **https://github.com/Dhi11-16**
 
 ---
 
-# 🌐 Connect With Me
+## 💭 PHILOSOPHY
 
-<p align="center">
-
-<a href="mailto:pandakaradii116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+> "Technology becomes meaningful when it solves real-world problems."
 
 ---
 
 <div align="center">
 
-## 💡 Vision
-
-### "Leveraging Artificial Intelligence and Data Analytics to build innovative solutions that create real-world impact."
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00C6FF"/>
-
-### ⭐ Thanks for visiting my profile!
+### 🚀 Learn • Build • Innovate
 
 </div>
