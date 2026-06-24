@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1A2980,50:26D0CE,100:00C9FF&text=Hey,%20I'm%20Dhinesh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00C6FF&text=DHINESH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 Hey, I'm Dhinesh A
+# ⚡ Dhinesh A
 
-### 💻 Computer Science Engineering Student | AI Engineer | Data Analytics Enthusiast
+### Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;AI+Engineer+%26+Data+Analytics+Enthusiast;Computer+Vision+Explorer;Building+Intelligent+Solutions;Turning+Ideas+into+Reality+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=AI+Engineer;Data+Analytics+Enthusiast;Computer+Vision+Explorer;Building+Intelligent+Solutions;Collaborating+on+Innovative+Projects"/>
 
 <br>
 
@@ -20,97 +20,101 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=0891b2"/>
+<img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=00C6FF"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🌌 Profile
 
-- 🎓 Computer Science Engineering Student
-- 🤖 AI Engineer & Data Analytics Enthusiast
-- 👁️ Exploring Artificial Intelligence, Machine Learning & Computer Vision
-- 🤝 Collaborating with **@gopi16-11** on innovative AI, Computer Vision and intelligent data-driven projects
-- 📊 Passionate about Data Analytics and Real-World Problem Solving
-- 🚀 Building impactful technology solutions through AI and Software Development
+```yaml
+Name: Dhinesh A
+
+Education: Computer Science Engineering
+
+Role:
+  - Computer Science Engineer
+  - Data Analytics Enthusiast
+
+Focus:
+  - Artificial Intelligence
+  - Data Analytics
+  - Computer Vision
+  - Software Development
+
+Currently:
+  - Building real-world AI applications
+  - Exploring Machine Learning & Intelligent Systems
+  - Collaborating with @gopi16-11 on innovative AI and technology projects
+```
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 About Me
 
-### 📚 EliteExam Hub
-
-A competitive exam preparation platform designed for students to learn, practice, and improve through structured study materials, MCQ quizzes, and mock tests.
-
-### 🎯 StriveForge
-
-A productivity and habit-tracking platform helping users build discipline and consistency through streak tracking, focus sessions, and performance analytics.
-
-### 🤖 AI & Computer Vision Projects
-
-Developing intelligent systems powered by Artificial Intelligence, Machine Learning, and Computer Vision technologies.
+- 🎓 Computer Science Engineering Student
+- 🤖 Passionate about Artificial Intelligence
+- 📊 Enthusiastic about Data Analytics
+- 👁️ Exploring Computer Vision Technologies
+- 💡 Solving real-world problems through technology
+- 🚀 Building innovative software and AI solutions
+- 🤝 Working alongside **@gopi16-11** on intelligent systems and impactful projects
 
 ---
 
 # 🛠️ Tech Stack
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,github,vscode" />
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-00C9FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-7B2FF7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer%20Vision-00D26A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge"/>
-
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 Featured Projects
+
+### 📚 EliteExam Hub
+
+A competitive exam preparation platform featuring study materials, quizzes, and mock tests designed to improve student performance.
+
+### 🎯 StriveForge
+
+A productivity and habit-tracking application focused on consistency, discipline, and personal growth.
+
+### 🤖 AI & Data Projects
+
+Developing intelligent solutions using Artificial Intelligence, Data Analytics, and Computer Vision.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dhi11-16&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhi11-16&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhi11-16&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhi11-16&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhi11-16&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhi11-16&theme=github-dark-blue&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Dhi11-16&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Dhi11-16&theme=algolia&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&bg_color=0d1117&hide_border=true&line=00E5FF&point=00E5FF&area=true"/>
 </p>
 
 ---
@@ -137,7 +141,9 @@ Developing intelligent systems powered by Artificial Intelligence, Machine Learn
 
 ### "Leveraging Artificial Intelligence and Data Analytics to build innovative solutions that create real-world impact."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:1A2980,50:26D0CE,100:00C9FF"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000428,50:004e92,100:00C6FF"/>
 
 ### ⭐ Thanks for visiting my profile!
 
