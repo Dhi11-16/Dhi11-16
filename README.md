@@ -1,94 +1,122 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:1E3A8A,100:38BDF8&text=DHINESH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,50:302B63,100:00F5FF&text=DHINESH%20A&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 👨‍💻 Dhinesh A
+# ⚡ DHINESH A
 
 ### AI Engineer • Data Analytics Enthusiast • Computer Science Engineering Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Data+Analytics;Building+Intelligent+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence;Machine+Learning;Computer+Vision;Data+Analytics;Building+Intelligent+Systems;Future+AI+Engineer"/>
 
-<p align="center">
+<br>
 
 <a href="mailto:pandakaradii116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
 
 <a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=38BDF8"/>
-
-</p>
+<img src="https://komarev.com/ghpvc/?username=Dhi11-16&style=for-the-badge&color=00F5FF"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🧠 AI PROFILE
 
 ```yaml
 Name: Dhinesh A
-
-Education:
-  - Computer Science Engineering
 
 Role:
   - AI Engineer
   - Data Analytics Enthusiast
 
-Working On:
+Education:
+  - Computer Science Engineering
+
+Current Focus:
   - Artificial Intelligence
   - Machine Learning
   - Computer Vision
-  - Intelligent Data Solutions
+  - Data Analytics
 
 Collaboration:
-  - Working alongside @gopi16-11
+  - Working with @gopi16-11
 
 Mission:
-  - Building impactful AI-powered applications
+  - Build AI solutions that create real-world impact
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 ABOUT ME
+
+```python
+class Dhinesh:
+
+    def __init__(self):
+        self.role = "AI Engineer"
+        self.specialization = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Computer Vision",
+            "Data Analytics"
+        ]
+
+        self.currently_working = (
+            "AI & Intelligent Data Solutions"
+        )
+
+        self.collaborating_with = "@gopi16-11"
+
+        self.goal = (
+            "Transforming Data Into Intelligence"
+        )
+```
+
+---
+
+# ⚡ AI TECH STACK
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,html,css,javascript,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv,mysql,html,css,javascript,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-00F5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-00FFFF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data%20Analytics-7B2FF7?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## 🧠 AI Interests
-
-- 🤖 Artificial Intelligence
-- 📊 Data Analytics
-- 🧠 Machine Learning
-- 👁️ Computer Vision
-- 📈 Data Visualization
-- ⚡ Intelligent Automation
-- 💻 Software Development
-
----
-
-## 🚀 Featured Projects
+# 🚀 FEATURED PROJECTS
 
 ### 📚 EliteExam Hub
-Competitive exam preparation platform featuring study materials, quizzes, and mock tests.
+
+AI-enhanced competitive exam preparation platform with quizzes, assessments, and study resources.
 
 ### 🎯 StriveForge
-Productivity and habit-tracking platform focused on consistency, focus, and growth.
+
+Productivity intelligence platform focused on discipline, consistency, and performance analytics.
 
 ### 🤖 AI Solutions
-Developing intelligent applications powered by AI, Machine Learning, and Computer Vision.
+
+Building intelligent systems using Machine Learning, Data Analytics, and Computer Vision.
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 
@@ -98,7 +126,7 @@ Developing intelligent applications powered by AI, Machine Learning, and Compute
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
 
@@ -116,36 +144,26 @@ Developing intelligent applications powered by AI, Machine Learning, and Compute
 
 ---
 
-## 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhi11-16&bg_color=0d1117&hide_border=true&line=00F5FF&point=00F5FF&area=true"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Dhi11-16/Dhi11-16/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
+# 🌐 CONNECT
 
 <p align="center">
 
 <a href="mailto:pandakaradii116@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-0F0C29?style=for-the-badge&logo=gmail&logoColor=00F5FF"/>
 </a>
 
 <a href="https://purple-byte-portfolio.lovable.app">
-<img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-302B63?style=for-the-badge&logo=vercel&logoColor=00F5FF"/>
 </a>
 
 </p>
@@ -154,12 +172,12 @@ Developing intelligent applications powered by AI, Machine Learning, and Compute
 
 <div align="center">
 
-## 💡 AI Vision
+# 💡 AI VISION
 
-### "Transforming data into intelligence and intelligence into impactful solutions."
+### "Building intelligent systems that transform data into meaningful decisions."
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:1E3A8A,100:38BDF8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F0C29,50:302B63,100:00F5FF"/>
 
-### ⭐ Thanks for visiting my profile!
+### ⚡ Powered by AI • Driven by Innovation
 
 </div>
